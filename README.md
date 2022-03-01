@@ -1,7 +1,7 @@
 <h1 align="center">Hi There, I'm Felipe Niehues Kniess</h1>
 <h3 align="center">I'm a web developer with a passion for technology</h3>
 
-- information systems :books: :student:
+- graduated in information systems🎓
 - my favorite language is javascript ❤️
 - I am currently focusing on nodeJS, React and React Native.
 - I work especially with Framework VueJS and ReactJS.
