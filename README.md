@@ -1,8 +1,8 @@
-# 👋 Hi, I’m Felipe
+# Hi, I’m Felipe
 
 🚀 [My Portfolio](https://www.felipeniehues.dev) | 🇧🇷 Portuguese | 🇺🇸 English
 
-I’m a passionate fullstack developer with experience building modern, scalable web applications. My portfolio showcases projects that reflect my work, continuous learning, and love for solving real-world problems through code.
+I’m a fullstack developer with experience building modern, scalable web applications. My portfolio showcases projects that reflect my work, continuous learning, and love for solving real-world problems through code.
 
 ---
 
@@ -18,7 +18,7 @@ I’m a passionate fullstack developer with experience building modern, scalable
 
 Check out details and live demos:
 
-👉 [felipeniehues.dev/projects](https://www.felipeniehues.dev/pt/projects)
+👉 [felipeniehues.dev/projects](https://www.felipeniehues.dev/en/projects)
 
 ---
 
@@ -37,12 +37,10 @@ Check out details and live demos:
 
 ---
 
-## 📫 Get in Touch
+## 🚀 More about me
 
 - 🌐 [Portfolio](https://www.felipeniehues.dev)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/felipeniehues)  
-- 🐙 [GitHub](https://github.com/felipeniehues)  
-- 📧 Email: felipe.nkniess@gmail.com
+- 📧 felipe.nkniess@gmail.com
 
----
 
