@@ -1,6 +1,6 @@
 # Hi, I’m Felipe
 
-🚀 [My Portfolio](https://www.felipeniehues.dev) | 🇧🇷 Portuguese | 🇺🇸 English
+🚀 [My Portfolio](https://www.felipekniess.com.br) | 🇧🇷 Portuguese | 🇺🇸 English
 
 I’m a fullstack developer with experience building modern, scalable web applications. My portfolio showcases projects that reflect my work, continuous learning, and love for solving real-world problems through code.
 
