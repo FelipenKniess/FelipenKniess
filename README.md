@@ -18,7 +18,7 @@ I’m a fullstack developer with experience building modern, scalable web applic
 
 Check out details and live demos:
 
-👉 [felipeniehues.dev/projects](https://www.felipeniehues.dev/en/projects)
+👉 [felipeniehues.dev/projects](https://www.felipekniess.com.br/projects)
 
 ---
 
